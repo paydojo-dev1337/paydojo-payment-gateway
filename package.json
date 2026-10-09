@@ -1,0 +1,10 @@
+{
+  "name": "paydojo-payment-gateway",
+  "version": "1.2.0",
+  "description": "Internal PayDojo payment gateway service",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
